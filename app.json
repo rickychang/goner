@@ -1,0 +1,7 @@
+{
+  "name": "goner",
+  "description": "A barebones Node.js that returns 410 status by default for deprecating entire subdomains",
+  "repository": "https://github.com/rickychang/goner",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
